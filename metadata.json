@@ -1,0 +1,5 @@
+{
+  "name": "Quote Generator",
+  "description": "A web application to generate professional quotes for clients, with customizable logo, color palette, and currency options. It allows for dynamic client and contact management, and can export quotes to PDF.",
+  "requestFramePermissions": []
+}
